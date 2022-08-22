@@ -4,9 +4,6 @@
 
 [![](https://img.shields.io/badge/-Alasdair%20Reid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alasdairreid/)](https://www.linkedin.com/in/alasdairreid/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=alireid&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for alireid" width="500">
-
-![alireid's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireid&show_icons=true&theme=radical)
-
+![alireid's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireid&show_icons=true&theme=radical&theme=dark)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=alireid&theme=dark" width="500">
