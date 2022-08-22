@@ -53,24 +53,6 @@
           animation: wait 9.2s, msg-4 0.2s 9.2s;
         }
 
-        .typing-5 {
-          opacity: 0;
-          animation: wait 10s, fade-in-out 1.5s 10s;
-        }
-
-        .msg-5 {
-          animation: wait 11.7s, msg-5 0.2s 11.7s;
-        }
-
-        .typing-6 {
-          opacity: 0;
-          animation: wait 12.5s, fade-in-out 1.5s 12.5s;
-        }
-
-        .msg-6 {
-          animation: wait 14.2s, msg-6 0.2s 14.2s;
-        }
-
         @keyframes wait {
           0%,
           100% {
@@ -122,17 +104,6 @@
           }
         }
 
-        @keyframes msg-4 {
-          0% {
-            opacity: 0;
-            transform: translate(10px, 149px);
-          }
-          100% {
-            opacity: 1;
-            transform: translate(10px, 144px);
-          }
-        }
-
     @keyframes wait {
       0%,
       100% {
@@ -181,17 +152,6 @@
       100% {
         opacity: 1;
         transform: translate(10px, 96px);
-      }
-    }
-
-    @keyframes msg-4 {
-      0% {
-        opacity: 0;
-        transform: translate(10px, 149px);
-      }
-      100% {
-        opacity: 1;
-        transform: translate(10px, 144px);
       }
     }
 
@@ -341,35 +301,5 @@
         </text>
       </g>
 
-      <!-- typing 4 -->
-      <g transform="translate(10, 146)" class="typing-4 bubble">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
-
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-      </g>
-
-      <!-- stats -->
-      <g transform="translate(10, 146)" class="msg-4 bubble">
-          <defs>
-              <clipPath id="gitview">
-                  <rect width="500" height="440" />
-              </clipPath>
-          </defs>
-          <image 
-            width="500" 
-            xlink:href="https://github-readme-stats.vercel.app/api?username=alireid&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=dark&amp;layout=compact" 
-            clip-path="url(#gitview)"
-          />
-      </g>
 
 </svg>
