@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/alireid/alireid/main/chat.svg)]
+[![](https://raw.githubusercontent.com/alireid/alireid/main/chat.svg)](https://www.linkedin.com/in/alasdairreid/)
 
 ### Hi there 👋, I'm Alasdair Reid
 
