@@ -1,7 +1,5 @@
 [![](https://raw.githubusercontent.com/alireid/alireid/main/chat5.svg)](https://www.linkedin.com/in/alasdairreid/)
 
-### Hi there 👋, I'm Alasdair Reid
-
 ⚡ Take a look at some of my working examples and repositories below.
 
 [![](https://img.shields.io/badge/-Alasdair%20Reid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alasdairreid/)](https://www.linkedin.com/in/alasdairreid/)
