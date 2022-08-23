@@ -1,5 +1,5 @@
 
-<svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="180" viewBox="0 0 550 180" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -340,23 +340,6 @@
         <text x="15" y="27">
           You can find me on LinkedIn
         </text>
-      </g>
-
-      <!-- typing 4 -->
-      <g transform="translate(10, 146)" class="typing-4 bubble">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
-
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
       </g>
 
       <!-- stats -->
