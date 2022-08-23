@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/alireid/alireid/main/chat5.svg)](https://www.linkedin.com/in/alasdairreid/)
+[![](https://raw.githubusercontent.com/alireid/alireid/main/chat6.svg)](https://www.linkedin.com/in/alasdairreid/)
 
 ⚡ Take a look at some of my working examples and repositories below.
 
