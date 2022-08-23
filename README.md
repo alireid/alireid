@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/alireid/alireid/main/chat.svg)]
+
 ### Hi there 👋, I'm Alasdair Reid
 
 ⚡ Take a look at some of my working examples and repositories below.
