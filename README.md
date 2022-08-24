@@ -2,7 +2,7 @@
 
 ⚡ Take a look at some of my pinned projects, examples, demos and working practices in my repositories below.
 
-⚡ <a href="https://github.com/alireid/NETAngular">Angular</a> & <a href="https://github.com/alireid/NET6ReactEcommerce">React</a> examples also<a href="https://github.com/alireid?tab=repositories">here</a> 
+⚡ <a href="https://github.com/alireid/NETAngular">Angular</a> & <a href="https://github.com/alireid/NET6ReactEcommerce">React</a> examples also <a href="https://github.com/alireid?tab=repositories">here</a> 
 
 [![](https://img.shields.io/badge/-Alasdair%20Reid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alasdairreid/)](https://www.linkedin.com/in/alasdairreid/)
 
