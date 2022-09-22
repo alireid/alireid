@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/alireid/alireid/main/chat6.svg)](https://www.linkedin.com/in/alasdairreid/)
+[![](https://raw.githubusercontent.com/alireid/alireid/main/chat7.svg)](https://www.talentinternational.com/)
 
 ⚡ Take a look at some of my pinned projects, examples, demos and working practices in my <a href="https://github.com/alireid?tab=repositories">repositories</a> below. Featuring Microservices WebAPI solutions, E-commerce .NET MVC platforms, N-tier approaches, TDD, Solid principles and loads more to check out.
 
