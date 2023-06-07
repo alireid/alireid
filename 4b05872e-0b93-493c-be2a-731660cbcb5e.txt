@@ -1,0 +1,6 @@
+---
+tags: [csharp, azure, dotnet]
+---
+
+ac85e730-f828-4fa6-a98a-1186d3a9cc9d
+
