@@ -16,8 +16,7 @@ jobs:
       - name: The update
         run: |
           echo " " >> README.md
-          git config user.name Ali Reid
-          git config user.email email@email.com
+          git config user.name alireid
           git add .
           git commit -m "Updates"
           git push
