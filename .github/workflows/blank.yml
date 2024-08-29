@@ -17,6 +17,7 @@ jobs:
         run: |
           echo " " >> README.md
           git config user.name alireid
+          git config user.email email@email.com
           git add .
           git commit -m "Updates"
           git push
